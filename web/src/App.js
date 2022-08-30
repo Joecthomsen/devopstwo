@@ -18,6 +18,8 @@ function App() {
           Learn React
         </a>
         <button>This is a silly button</button>
+        <div></div>
+        <button>This is another silly button</button>
       </header>
     </div>
   );
