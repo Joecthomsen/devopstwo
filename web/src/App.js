@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <button>This is a silly button</button>
       </header>
     </div>
   );
